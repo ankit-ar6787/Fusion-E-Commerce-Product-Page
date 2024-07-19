@@ -1,4 +1,5 @@
-# Fusion-E-Commerce-Product-Page
+# Fusion-E-Commerce-Product-Page  ## Live Demo
+[Live Demo](https://ankit-ar6787.github.io/Fusion-E-Commerce-Product-Page/)
 
 Welcome to the Fusion E-Commerce Product Page! This project showcases a single product page for an e-commerce website dedicated to fashion. The page is designed using only HTML and CSS, focusing on simplicity, responsiveness, and an elegant user experience.
 
@@ -70,10 +71,4 @@ Feel free to customize the Fusion E-Commerce Product Page to match your brand's 
 
 If you'd like to contribute to this project, please fork the repository and create a pull request with your changes.
 
-
-## Live Demo
-
-Check out the live version of the Fusion E-Commerce Product Page here:
-
-[Live Demo](https://ankit-ar6787.github.io/Fusion-E-Commerce-Product-Page/)
 
