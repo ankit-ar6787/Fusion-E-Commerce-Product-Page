@@ -70,8 +70,10 @@ Feel free to customize the Fusion E-Commerce Product Page to match your brand's 
 
 If you'd like to contribute to this project, please fork the repository and create a pull request with your changes.
 
+
 ## Live Demo
 
 Check out the live version of the Fusion E-Commerce Product Page here:
 
-[Live Demo]([https://your-live-demo-link.com](http://127.0.0.1:5500/E-Commerce-Product-Page-main/index.html)
+[Live Demo](https://ankit-ar6787.github.io/Fusion-E-Commerce-Product-Page/)
+
